@@ -23,6 +23,7 @@ Vadzim Sudaranka
 ### Apache Maven
 - Download [Apache Maven](https://maven.apache.org/download.cgi)
 - Set **MAVEN_HOME** environment variable pointing to the folder where maven is installed
+-execute maven clean and than install comands for generating target folder and additional jar file
 
 
 ### Libraries Used
