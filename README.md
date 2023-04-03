@@ -37,9 +37,9 @@ Junit-jupiter-api:
 - for testing
 
 ## How to use
-To use this program you have additional json files:orders,json,store,json added to project folder(ordersScheduler)
+To use this program you have additional json files:orders.json,store.json added to project folder(ordersScheduler)
 if you want to try other cases you can provide your own Json files by replacing the existing ones or,
-using compiling path java -jar PATH_TO_JAR\ordersScheduler-1.0-SNAPSHOT.jar to execute jar and eding 
+using compiling path java -jar PATH_TO_JAR\ordersScheduler-1.0-SNAPSHOT.jar to execute jar and adding 
 path to your json files in the end of the path.
 ### Attention
 PATH_TO_JAR should be replaced with absolute or relative path to back-end part artefact.
